@@ -1,6 +1,6 @@
 {
     "version": "0.2.0",
-    "configurations": [
+    "configurations":[
         {
             "name": "Attach to Chrome",
             "port": 9222,
@@ -8,6 +8,8 @@
             "type": "chrome",
             "webRoot": "${workspaceFolder}"
         },
+    ]
+    
 }
         /* {
             "name": "Attach to Chrome",
